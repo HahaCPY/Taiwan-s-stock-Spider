@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 from datetime import date
 from datetime import timedelta
 import openpyxl
-import linecache as lc
 import sys
 
 # get data
@@ -82,3 +81,10 @@ elif("-l" in sys.argv):
     else:
         for i in range(l):
             print("%d:" % i,data[int(i * 7 + 1)])
+else:
+    print("First argument:")
+    print(" -s, --Search the stock")
+    print(" -l, --Look all the stock")
+    print("-----------------------")
+    print("Second argument:")
+    print(" -e, --Show the result in excel")
