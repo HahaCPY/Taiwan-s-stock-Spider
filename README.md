@@ -1,18 +1,20 @@
 # Taiwan-s-stock-Spider
 
-## Introduce:
+## DESCRIPTION:
 
 A code that can let people see the stock that they want quickier
 
-## Usage:
+## USAGE:
 
-> First argument:
-> -s  Search the stock
-> -l  Look all the stock
-> -----------------------
-> Second argument:
-> -e  Show the result in excel
+``
+First argument:
+ -s, --Search the stock
+ -l, --Look all the stock
+-----------------------
+Second argument:
+ -e, --Show the result in excel
+```
 
-## reference:
+## REFERENCE:
 
 [Crawled page](https://www.twse.com.tw/zh/)
