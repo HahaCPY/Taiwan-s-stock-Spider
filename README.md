@@ -15,6 +15,13 @@ Second argument:
  -e, --Show the result in excel
 ```
 
+## INSTALL:
+
+sudo pip install requests
+pip install beautifulsoup4
+pip install DateTime
+pip install openpyxl
+
 ## REFERENCE:
 
 [Crawled page](https://www.twse.com.tw/zh/)
