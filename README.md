@@ -17,10 +17,12 @@ Second argument:
 
 ## INSTALL:
 
+```
 sudo pip install requests
 pip install beautifulsoup4
 pip install DateTime
 pip install openpyxl
+```
 
 ## REFERENCE:
 
