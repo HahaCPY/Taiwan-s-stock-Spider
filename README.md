@@ -6,7 +6,7 @@ A code that can let people see the stock that they want quickier
 
 ## USAGE:
 
-``
+```
 First argument:
  -s, --Search the stock
  -l, --Look all the stock
